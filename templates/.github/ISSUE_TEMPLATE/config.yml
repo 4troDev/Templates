@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Company name Community Support
+    url: https://domain.com/community/discussions
+    about: Please ask and answer questions here.
+  - name: Company name Security Bug Bounty
+    url: https://bounty.domain.com/
+    about: Please report security vulnerabilities here.
